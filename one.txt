@@ -1,0 +1,172 @@
+    1  ls
+    2  exit
+    3  ls
+    4  cd Desktop/
+    5  ls
+    6  cd ..
+    7  sudo apt-get install pip
+    8  pip -v
+    9  sudo apt-get install pip
+   10  python
+   11  pip --version
+   12  sudo apt-get install python-pip python-dev build-essential 
+   13  sudo pip install --upgrade pipi
+   14  sudo pip install --upgrade pip
+   15  sudo pip install --upgrade virtualenv
+   16  pip install flask
+   17  sudo pip install flask
+   18  pwd
+   19  ls
+   20  mkdir first
+   21  cd first/
+   22  virtualenv venv
+   23  venv/bin/activate
+   24  sduo venv/bin/activate
+   25  sudo  venv/bin/activate
+   26  sudo  /home/flask/first/venv/bin/activate
+   27  cd /home/flask/first/venv/
+   28  ls
+   29  cd bin/
+   30  ls
+   31  ./activate
+   32  sudo ./activate
+   33  activate
+   34  venv/bin/activate
+   35  cd ../..
+   36  venv/bin/activate
+   37  sudo venv/bin/activate
+   38  source  venv/bin/activate
+   39  pip install Flask
+   40  flask -v
+   41  flask --version
+   42  from flask import Flask
+   43  app = Flask(__name__)
+   44  @app.route('/')
+   45  def hello_world():
+   46  vim hello.py
+   47  python3 hello.py 
+   48  vim hello.py
+   49  python3 hello.py 
+   50  pip install flask
+   51  python2 hello.py 
+   52  pip install -U flask
+   53  python3 hello.py 
+   54  pip3 install flask
+   55  sudo apt-get install python-pip3 python-dev build-essential 
+   56  sudo apt-get install python3-pip
+   57  python3 hello.py 
+   58  pip3 install flask
+   59  python3 hello.py 
+   60  pip install --upgrade pip3
+   61  pip install --upgrade pip
+   62  python3 hello.py 
+   63  python hello.py 
+   64  vim test.py
+   65  python3 test.py 
+   66  python3 hello.py 
+   67  vim hello.py 
+   68  vim test.py
+   69  python3 test.py 
+   70  vim test.py
+   71  python3 test.py 
+   72  vim test.py
+   73  python3 test.py 
+   74  vim test.py
+   75  python3 test.py 
+   76  vim test.py
+   77  python3 test.py 
+   78  vim test.py
+   79  python3 test.py 
+   80  vim test.py
+   81  python3 test.py 
+   82  vim test.py
+   83  python3 test.py 
+   84  vim test.py
+   85  python3 test.py 
+   86  vim test.py
+   87  python3 test.py 
+   88  ls
+   89  vim http_test.py
+   90  python3 http_test.py 
+   91  vim http_test.py
+   92  python3 http_test.py 
+   93  vim http_test.py
+   94  python3 http_test.py 
+   95  vim http_test.py
+   96  python3 http_test.py 
+   97  vim http_test.py
+   98  python3 http_test.py 
+   99  vim http_test.py
+  100  ls
+  101  cd venv/
+  102  ls
+  103  cd bin/
+  104  ls
+  105  exit
+  106  sudo su - nso
+  107  sudo su - hellboy
+  108  exit
+  109  sudo apt-get install pip
+  110  sudo su
+  111  sudo su -
+  112  git
+  113  sudo apt-get install git
+  114  sudo rm -f /var/lib/dpkg/lock
+  115  sudo apt-get install git
+  116  sudo apt autoremove
+  117  sudo rm -f /var/cache/apt/archives/lock
+  118  sudo apt autoremove
+  119  sudo apt-get install git
+  120  git
+  121  git status
+  122  git init
+  123  git config --global user.name "arihackbc"
+  124  git config --global user.email "arihackbc@gmail.com"
+  125  pwd
+  126  ls
+  127  cd first/
+  128  ls
+  129  cd ..
+  130  cd first/
+  131  ls
+  132  cd ..
+  133  mkdir myproject
+  134  cd myproject/
+  135  git init
+  136  ls
+  137  ls -a
+  138  git remote add origin https://github.com/arihackbc/myproject.git
+  139  touch first.txt
+  140  history > first.txt 
+  141  git add first.txt 
+  142  git commit -m 'first text file'
+  143  git push origin master
+  144  git remote add origin https://github.com/arihackbc/myproject.git
+  145  git push origin master
+  146  pwd
+  147  ssh -T arihackbc@github.com
+  148  vim ~/.gitconfig 
+  149  vim ~.ssh
+  150  vim ~/.ssh/known_hosts 
+  151  ssh -T arihackbc@github.com
+  152  vim ~/.ssh/known_hosts 
+  153  ssh -T arihackbc@github.com
+  154  vim ~/.ssh/known_hosts 
+  155  vim ~/.gitconfig 
+  156  git push -u origin master
+  157  git push origin master --force
+  158  git remote add origin https://github.com/arihackbc/myproject.git
+  159  git remote set-url origin https://github.com/myproject.git
+  160  git push origin master --force
+  161  git remote set-url origin https://github.com/arihackbc/myproject.git
+  162  git push origin master --force
+  163  git remote set-url origin https://github.com/arihackbc/myproject.git
+  164  git remote -v
+  165  git push origin master
+  166  cd ../
+  167  git clone https://github.com/arihackbc/testing.git
+  168  ls
+  169  cd testing/
+  170  ls
+  171  touch one.txt
+  172  history > one.txt 
